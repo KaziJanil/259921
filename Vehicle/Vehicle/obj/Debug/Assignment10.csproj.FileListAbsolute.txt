@@ -1,0 +1,10 @@
+C:\Users\Kz Janil\Desktop\Refrigerator\265990-master\Day15\Vehicle\Assignment10\Assignment10\bin\Debug\Assignment10.exe.config
+C:\Users\Kz Janil\Desktop\Refrigerator\265990-master\Day15\Vehicle\Assignment10\Assignment10\bin\Debug\Assignment10.exe
+C:\Users\Kz Janil\Desktop\Refrigerator\265990-master\Day15\Vehicle\Assignment10\Assignment10\bin\Debug\Assignment10.pdb
+C:\Users\Kz Janil\Desktop\Refrigerator\265990-master\Day15\Vehicle\Assignment10\Assignment10\obj\Debug\Assignment10.csprojAssemblyReference.cache
+C:\Users\Kz Janil\Desktop\Refrigerator\265990-master\Day15\Vehicle\Assignment10\Assignment10\obj\Debug\Assignment10.VehicleForm.resources
+C:\Users\Kz Janil\Desktop\Refrigerator\265990-master\Day15\Vehicle\Assignment10\Assignment10\obj\Debug\Assignment10.Properties.Resources.resources
+C:\Users\Kz Janil\Desktop\Refrigerator\265990-master\Day15\Vehicle\Assignment10\Assignment10\obj\Debug\Assignment10.csproj.GenerateResource.cache
+C:\Users\Kz Janil\Desktop\Refrigerator\265990-master\Day15\Vehicle\Assignment10\Assignment10\obj\Debug\Assignment10.csproj.CoreCompileInputs.cache
+C:\Users\Kz Janil\Desktop\Refrigerator\265990-master\Day15\Vehicle\Assignment10\Assignment10\obj\Debug\Assignment10.exe
+C:\Users\Kz Janil\Desktop\Refrigerator\265990-master\Day15\Vehicle\Assignment10\Assignment10\obj\Debug\Assignment10.pdb
