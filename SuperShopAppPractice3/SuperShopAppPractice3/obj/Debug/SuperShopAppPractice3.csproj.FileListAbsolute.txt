@@ -1,0 +1,29 @@
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe.config
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.pdb
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.Properties.Resources.resources
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.SuperShopUi.resources
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.GenerateResource.cache
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.CoreCompileInputs.cache
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.exe
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.pdb
+D:\BITM\Day -16\Day16\Association Relationship\Practices\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe.config
+D:\BITM\Day -16\Day16\Association Relationship\Practices\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe
+D:\BITM\Day -16\Day16\Association Relationship\Practices\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.pdb
+D:\BITM\Day -16\Day16\Association Relationship\Practices\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csprojAssemblyReference.cache
+D:\BITM\Day -16\Day16\Association Relationship\Practices\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.Properties.Resources.resources
+D:\BITM\Day -16\Day16\Association Relationship\Practices\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.SuperShopUi.resources
+D:\BITM\Day -16\Day16\Association Relationship\Practices\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.GenerateResource.cache
+D:\BITM\Day -16\Day16\Association Relationship\Practices\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.CoreCompileInputs.cache
+D:\BITM\Day -16\Day16\Association Relationship\Practices\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.exe
+D:\BITM\Day -16\Day16\Association Relationship\Practices\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.pdb
+C:\Users\Kz Janil\Desktop\20\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe.config
+C:\Users\Kz Janil\Desktop\20\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe
+C:\Users\Kz Janil\Desktop\20\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.pdb
+C:\Users\Kz Janil\Desktop\20\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csprojAssemblyReference.cache
+C:\Users\Kz Janil\Desktop\20\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.Properties.Resources.resources
+C:\Users\Kz Janil\Desktop\20\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.SuperShopUi.resources
+C:\Users\Kz Janil\Desktop\20\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.GenerateResource.cache
+C:\Users\Kz Janil\Desktop\20\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.CoreCompileInputs.cache
+C:\Users\Kz Janil\Desktop\20\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.exe
+C:\Users\Kz Janil\Desktop\20\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.pdb
